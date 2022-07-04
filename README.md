@@ -85,10 +85,6 @@ Don't forget to give the project a star! Thanks again!
 6. Open a Pull Request
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- Built With URLS -->
@@ -96,24 +92,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [truffle]: https://trufflesuite.com/
 [moralis]: https://moralis.io/
 
-
-<!-- License Badge -->
-[license-shield]: https://img.shields.io/github/license/rileystephens28/mintango.svg?style=for-the-badge
-[license-url]: https://github.com/rileystephens28/mintango/blob/main/LICENSE.txt
-
-<!-- Version Badge -->
-[package-version-shield]: https://img.shields.io/github/package-json/v/rileystephens28/mintango.svg?style=for-the-badge
-
-<!-- Build Status Badge -->
-[build-status-shield]: https://img.shields.io/travis/com/rileystephens28/mintango.svg?style=for-the-badge
-
-<!-- Contributors Badge -->
-[contributors-shield]: https://img.shields.io/github/contributors/rileystephens28/mintango.svg?style=for-the-badge
-[contributors-url]: https://github.com/rileystephens28/mintango/graphs/contributors
-
-<!-- Languages Badge-->
-[top-languages-shield]: https://img.shields.io/github/languages/top/rileystephens28/mintango.svg?style=for-the-badge
-
-[languages-count-shield]: https://img.shields.io/github/languages/count/rileystephens28/mintango.svg?style=for-the-badge
-
-[status-shield]: https://img.shields.io/static/v1?label=status&message=under%20construction&color=red&style=for-the-badge
