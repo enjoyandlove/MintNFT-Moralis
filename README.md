@@ -9,17 +9,11 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <!-- <a href="https://github.com/rileystephens28/mintango">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
   <h1 align="center">Mintango</h1>
   <p align="center">
     <i>ERC-1155 NFT Minting Dapp</i>
     <br />
     <br />
-    <a href="https://github.com/rileystephens28/mintango/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rileystephens28/mintango/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement">Request Feature</a>
   </p>
 </div>
 
@@ -28,32 +22,6 @@
 </div>
 <br>
 <br>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-        <a href="#about-the-project">About Mintango</a>
-        <ul><a href="#features">Features</a></ul>
-        <ul><a href="#built-with">Built With</a></ul>
-    </li>
-    <li>
-        <a href="#getting-started">Getting Started</a>
-        <ul><a href="#prerequisites">Prerequisites</a></ul>
-        <ul><a href="#installation">Installation</a></ul>
-    </li>
-     <!-- <li>
-        <a href="#usage">Usage</a>
-        <ul><a href="#erc-1155-contract">ERC-1155 Contract</a></ul>
-    </li> -->
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-<br />
 
 <!-- ABOUT THE PROJECT -->
 ## About Mintango
@@ -122,19 +90,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<!-- CONTACT -->
-## Contact
-
-Riley Stephens - rileystephens@escalatorllc.com
-
-<p align="right"><a href="#top">back to top</a></p>
-
-
-
-<!-- Project URLS-->
-[github-url]: https://github.com/rileystephens28/mintango
-[github-issues]: https://github.com/rileystephens28/mintango/issues
-[repo-path]: rileystephens28/mintango
 
 <!-- Built With URLS -->
 [react]: https://reactjs.org/
